@@ -3,7 +3,7 @@
 # hey homie
 ## hey homie
 [hey homie](https://www.goodreads.com/)
-![Image]([https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Twemoji_1f600.svg/1200px-Twemoji_1f600.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Emoji_u1f600.svg/800px-Emoji_u1f600.svg.png))
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Emoji_u1f600.svg/800px-Emoji_u1f600.svg.png)
 > hey homie
 
 - hey
