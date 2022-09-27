@@ -1,3 +1,4 @@
+theme: dinky
 [Lab Report 1](https://stguast.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
 
 *hey homie*
