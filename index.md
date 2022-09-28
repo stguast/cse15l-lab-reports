@@ -1,5 +1,5 @@
 # hey homie
-![Image](https://i.pinimg.com/564x/e8/50/8b/e8508b25ffe347e9a2c8bdc632896f9d.jpg)
+![Image](https://i.pinimg.com/564x/e8/50/8b/e8508b25ffe347e9a2c8bdc632896f9d.jpg)<br>
 **welcome to my page :)**<br>
  my name is steph guastaferro and i'm a *math-cs* major at ucsd.
 
@@ -12,7 +12,7 @@
 2. test 2
 3. test 3
 ```
+<br>
 This page was created for the purposes of CSE15L.
-2022 Fall Quarter
 ```
 >testing
