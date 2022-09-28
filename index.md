@@ -11,8 +11,8 @@
 1. `test 1`
 2. test 2
 3. test 3
-```
 <br>
+```
 This page was created for the purposes of CSE15L.
 ```
 >testing
