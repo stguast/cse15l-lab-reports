@@ -1,5 +1,5 @@
 # hey homie
-![Image](https://i.pinimg.com/originals/99/06/48/990648284db99a080ee64f48b56886b1.jpg)
+![Image](https://i.pinimg.com/564x/e8/50/8b/e8508b25ffe347e9a2c8bdc632896f9d.jpg)
 **welcome to my page :)**<br>
  my name is steph guastaferro and i'm a *math-cs* major at ucsd.
 
