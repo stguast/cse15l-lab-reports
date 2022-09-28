@@ -8,7 +8,7 @@
 - [Lab Report 1](https://stguast.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
 
 ---
-> testing
+>testing
 1. test 1
 2. test 2
 3. `test 3`
