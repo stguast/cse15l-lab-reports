@@ -1,6 +1,6 @@
 # hey homie
 ![Image](https://i.pinimg.com/originals/99/06/48/990648284db99a080ee64f48b56886b1.jpg)
-**welcome to my page :)**
+**welcome to my page :)**<br>
  my name is steph guastaferro and i'm a *math-cs* major at ucsd.
 
 ### important links
