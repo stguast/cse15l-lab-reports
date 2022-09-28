@@ -8,7 +8,6 @@
 - [Lab Report 1](https://stguast.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
 
 ---
->testing
 1. test 1
 2. test 2
 3. `test 3`
@@ -16,3 +15,4 @@
 This page was created for the purposes of CSE15L.
 2022 Fall Quarter
 ```
+>testing
